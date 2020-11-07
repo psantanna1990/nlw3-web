@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
-import { FaWhatsapp } from "react-icons/fa";
+// import { FaWhatsapp } from "react-icons/fa";
 import { FiClock, FiInfo } from "react-icons/fi";
-import { Map, TileLayer, Marker, Popup } from "react-leaflet";
+import { Map, TileLayer, Marker } from "react-leaflet";
 import { useParams } from "react-router-dom";
 
 import "../styles/pages/orphanage.css";
